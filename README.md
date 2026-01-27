@@ -25,11 +25,14 @@ Conditions implemented:
 The hardest part was writing the correct regex for special characters. Initially the pattern was not working properly, but after testing I fixed it using:
 .*[!@#$%^&*()].*
 
-## 4. Output Screenshots
+## 4. Output Screenshot
 (Paste your console screenshot here directly)
+![WhatsApp Image 2026-01-28 at 1 02 32 AM](https://github.com/user-attachments/assets/a28e77c6-08ff-4160-b68d-8408ef03357b)
+
 
 ## 5. Future Improvements
 If I had 1 more days, I would:
 - Add uppercase/lowercase validation
 - Take password input from user
 - Create a simple GUI version  
+

@@ -17,9 +17,9 @@ public class Main{
         // Checking each password one by one
         for (String password : testPasswords) {
             if (isStrongPassword(password)) {
-                System.out.println(password + "  =>  Strong Password ✅");
+                System.out.println(password + "  =>  Strong Password ");
             } else {
-                System.out.println(password + "  =>  Weak Password ❌");
+                System.out.println(password + "  =>  Weak Password ");
             }
         }
     }

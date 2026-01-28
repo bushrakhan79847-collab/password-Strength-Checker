@@ -50,7 +50,7 @@ This correctly detects the presence of special characters in the password.
 ## 4. Output Screenshot
 
 
-![WhatsApp Image 2026-01-28 at 1 02 32 AM](https://github.com/user-attachments/assets/a28e77c6-08ff-4160-b68d-8408ef03357b)
+<img width="1477" height="687" alt="image" src="https://github.com/user-attachments/assets/311e7138-ce21-4fd9-97eb-f0ca5e29e5bc" />
 
 <!-- Your screenshot should already appear here -->
 
@@ -63,3 +63,4 @@ If I had 2 more days, I would:
 * Add uppercase and lowercase letter validation
 * Allow users to input passwords dynamically
 * Create a simple GUI version of this tool
+
